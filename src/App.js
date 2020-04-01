@@ -74,7 +74,7 @@ class App extends Component {
         
         <img src={logo} className="App-logo" alt="logo" />  
 
-        <h1> Monster Rolodex </h1>
+        <h1> Monster Search </h1>
 
         <SearchBox
           placeHolder='search monsters'
